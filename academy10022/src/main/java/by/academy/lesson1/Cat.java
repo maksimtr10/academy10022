@@ -43,4 +43,13 @@ public class Cat {
 		this.age = age
 	}
 	
+	public void test() {
+		
+	}
+	
+public void test() {
+		
+	}
+	}
+	
 }
